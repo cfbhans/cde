@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 au revoir
+=======
+>>>>>>> parent of da74bef... Changement de David
